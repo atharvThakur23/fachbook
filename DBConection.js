@@ -3,7 +3,7 @@ const firebaseConfig = {
     authDomain: "phishing-13779.firebaseapp.com",
     databaseURL: "https://phishing-13779-default-rtdb.firebaseio.com",
     projectId: "phishing-13779",
-    storageBucket: "phishing-13779.appspot.com",
+    storageBucket: "phishing-13779.firebasestorage.app",
     messagingSenderId: "1042174926237",
     appId: "1:1042174926237:web:8978c1870c5258e1b7a374"
   };
